@@ -20,6 +20,8 @@ For our MVP, we will adapt an existing manual follow-focus rig with a small, fin
 
 ### Media
 
+####Original Mount
+![Original Mount](original_mount.jpg)
 
 
 ## Repo Organization
