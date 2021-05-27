@@ -18,6 +18,9 @@ To create an automatic follow-focus, our system will need to be broken down into
 
 For our MVP, we will adapt an existing manual follow-focus rig with a small, fine-grained, and silent stepper-motor to control focus. The depth-sensor will be a LiDar time-of-flight sensor to determine distance, and an Arduino UNO as the computer. Once attached and calibrated to the lens, the focus will dynamically adjust so that whatever is at the center of the frame always remains in focus up to a range of 8m. 
 
+### Media
+
+
 
 ## Repo Organization
 ...
