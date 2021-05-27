@@ -11,7 +11,9 @@ const int stepper_3 = 10;
 const int stepper_4 = 11;
 
 int step_number = 0;
-
+bool dir = true;
+int ctr = 0;
+int data = 0;
 void setup() {
   // put your setup code here, to run once:
   pinMode(stepper_1, OUTPUT);
@@ -23,11 +25,22 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  OneStep(true);
-//  Serial.println("At step");
-//  Serial.println(step_number);
+  OneStep(dir);
+  ctr++;
+  Serial.println("At step");
+  Serial.println(ctr);
+  if(ctr >= 500){
+    dir = !dir;
+    ctr = 0;
+  }
 
-  delay(2);
+  if (Serial.available()){
+    data = Serial.read();
+    Serial.print("I read: ");
+    Serial.println(data);
+  }
+  
+  delay(1);
 }
 
 void OneStep(bool dir){
