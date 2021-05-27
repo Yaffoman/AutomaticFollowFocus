@@ -21,8 +21,21 @@ For our MVP, we will adapt an existing manual follow-focus rig with a small, fin
 ### Media
 
 #### Original Mount
-<img src="original_mount.jpg" alt="original mount" width="200"/>
 
+This mount was made using a flat piece of steel which we bent and removed sections using a dremel. This was to give us a basic idea of what we were going to model.
+<img src="original_mount.jpg" alt="original mount" width="400"/>
+
+
+#### Original System
+
+This is the original mount attached to the camera with some of the system components attached (stepper motor). 
+<img src="original_system.jpg" alt="original system" width="400"/>
+
+#### 3D Models and Iterations
+
+This is the 3D model we designed based on the original mount. We included mounting points for all of the systems hardware components. This took several iterations to get the mounting locations in the ideal placements.
+<img src="3d_model.jpg" alt="original system" width="400"/>
+<img src="iterations.jpg" alt="original system" width="400"/>
 
 ## Repo Organization
 ...
