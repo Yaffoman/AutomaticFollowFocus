@@ -40,6 +40,13 @@ This is the 3D model we designed based on the original mount. We included mounti
 <img src="3d_model.jpg" alt="original system" width="400"/>
 <img src="iterations.jpg" alt="original system" width="400"/>
 
+#### Complete System
+
+Here is our complete system wired up and running. The wires are a bit messy and given more time we have several changes that we would like to implement but this system achieves our base goals.
+
+<img src="complete_system_front.jpg" alt="original system" width="400"/>
+<img src="complete_system_top.jpg" alt="original system" width="400"/>
+
 ## Repo Organization
 ...
 
