@@ -37,21 +37,29 @@ This is the original mount attached to the camera with some of the system compon
 
 This is the 3D model we designed based on the original mount. We included mounting points for all of the systems hardware components. This took several iterations to get the mounting locations in the ideal placements.
 
-<img src="3d_model.jpg" alt="original system" width="400"/>
-<img src="iterations.jpg" alt="original system" width="400"/>
+<img src="images/3d_model.jpg" alt="original system" width="400"/>
+<img src="images/iterations.jpg" alt="original system" width="400"/>
 
 Final Iteration: Carbon Fiber mount with attached hardware
-<img src="iterations.jpg" alt="original system" width="400"/>
+<img src="images/mount1.jpg" alt="original system" width="400"/>
+<img src="images/mount2.jpg" alt="original system" width="400"/>
 
 #### Complete System
 
 Here is our complete system wired up and running. The wires are a bit messy and given more time we have several changes that we would like to implement but this system achieves our base goals.
 
-<img src="complete_system_front.jpg" alt="original system" width="400"/>
-<img src="complete_system_top.jpg" alt="original system" width="400"/>
+<img src="images/system1.jpg" alt="original system" width="400"/>
+<img src="images/system2.jpg" alt="original system" width="400"/>
+<img src="images/system3.jpg" alt="original system" width="400"/>
+<img src="images/system4.jpg" alt="original system" width="400"/>
+
 
 ## Repo Organization
-...
+### Images
+This folder contains all the images needed for the README
+
+### Code
+This folder contains our audino file that controls the system
 
 ## Relevant Files
 [Project Specification](https://docs.google.com/document/u/1/d/e/2PACX-1vR7f_SCI-wuG92Et0VP4YWmQdNeJKLPD-W7jhbWiDdFht9IB5lYc-DVYsRZljCv2UFADpbiVSlDBm2-/pub)
@@ -59,5 +67,7 @@ Here is our complete system wired up and running. The wires are a bit messy and 
 [Milestone Report](https://docs.google.com/document/d/e/2PACX-1vRDqsqV7q2qU70tZm42NWyuAJPylhJETKva-iidkfWNiynRTFDRNkfxW0TCXdBWoWRqfZBtMWYlbz5G/pub)
 
 [Oral Update](https://docs.google.com/presentation/d/e/2PACX-1vSpkfmF8wC4bcpIy2F_BTrdK_YAkHR9gESRvpczLLuf5MXxQVo-R_bJhY_RxzTn6OQB8V0ov08AnhvS/pub?start=false&loop=false&delayms=3000)
+
+[Final Oral Update](https://docs.google.com/presentation/d/e/2PACX-1vTmCl1PBQolEVxEH3D6TQDxceaFYIcq-r6SjPEK2jjG0rSF97mehDbIC0gli58A3UxafzSPnDdnN2j6/pub?start=false&loop=false&delayms=3000)
 
 
